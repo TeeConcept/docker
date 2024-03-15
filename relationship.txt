@@ -1,0 +1,7 @@
+A Docker image is a lightweight, standalone, and executable package
+that includes the application code, libraries, dependencies, and runtime
+needed to run an application, A Docker container is a runnable instance of a Docker image. It
+encapsulates the application and its dependencies in an isolated
+environment.
+A Dockerfile is a script that contains instructions for building a Docker
+image
