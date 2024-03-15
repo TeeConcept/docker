@@ -1,0 +1,1 @@
+Containerisation allows you to scale a specific desired function without impacting the entire application, \n, Containers share the OS kernel, making them lightweight and more efficient while VM require a full OS for each instance.
